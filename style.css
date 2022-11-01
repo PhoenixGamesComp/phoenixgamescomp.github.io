@@ -202,7 +202,7 @@ a:hover {
 }
 
 .logo {
-    max-width: 50%;
+    max-width: 50% !important;
     float: left;
     margin: -10px 30px;
 }
